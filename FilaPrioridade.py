@@ -8,4 +8,4 @@ elif doenca_infectocontagiosa == "Sim":
 else:
     print("O paciente " + nome + " esta cadastrado, favor aguardar.")
     if idade <= 10:
-        print("Paciente "+nome + " é uma criança."
+        print("Paciente "+nome + " é uma criança.
