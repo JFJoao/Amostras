@@ -16,4 +16,4 @@ escolhido=random.choice(lista)
 for linha in lista:
         voice=gtts.gTTS(linha,lang='pt-br')
         voice.save('voice.mp3')
-        playsound('voice.mp3')
+        playsound('voice.mp3') 
